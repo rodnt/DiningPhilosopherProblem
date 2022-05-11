@@ -3,7 +3,7 @@
 #include <pthread.h>
 #include <unistd.h>
 
-// Author: Rodolfo 'r00d3v' Tavares
+// Author: Rodolfo 'nuk3RR' Tavares
 // The Dining Philosophers Problem
 
 pthread_mutex_t mutex_fork[5];
